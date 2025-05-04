@@ -1,0 +1,5 @@
+FrontEnd
+cd ./FrontEnd
+
+//Install Vite
+npm  vite@latest {./} not to crate new forlder to install install 

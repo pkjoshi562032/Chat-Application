@@ -3,6 +3,7 @@ import dotenv from "dotenv"
 
 dotenv.config()
 
+//To start server;
 const app = express()
 
 const PORT = process.env.PORT || 3000

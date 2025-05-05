@@ -3,3 +3,14 @@ cd ./FrontEnd
 
 //Install Vite
 npm  vite@latest {./} not to crate new forlder to install install 
+
+
+
+//Backend
+npm i server
+      express
+      bcryptjs
+      cookie-parser
+      jsonwebtoken
+      mongoose
+      socket.io
